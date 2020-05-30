@@ -1,0 +1,8 @@
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+**/venv/
+**/__pycache__/
