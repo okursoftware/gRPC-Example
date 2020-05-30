@@ -6,7 +6,7 @@
 
 ## Client(Dart - Flutter)[Details](https://github.com/okursoftware/gRPC-Example/tree/master/StreamClient)
 
-<img src="Resource/demo-client.gif" alt="demo gif" width="640px">
+<img src="Resource/demo-client.gif" alt="demo gif" height="720px">
 
 ### Extra
 
