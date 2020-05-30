@@ -1,8 +1,12 @@
-# BASIC [gRPC](grpc.io) EXAMPLE
+# BASIC [gRPC](https://grpc.io) EXAMPLE
 
-## Server (Python) [Details]
+## Server (Python) [Details](https://github.com/okursoftware/gRPC-Example/tree/master/StreamServer)
 
-## Client(Dart - Flutter)[Details]
+<img src="Resource/server-test.png" alt="demo server" width="720px">
+
+## Client(Dart - Flutter)[Details](https://github.com/okursoftware/gRPC-Example/tree/master/StreamClient)
+
+<img src="Resource/demo-client.gif" alt="demo gif" width="640px">
 
 ### Extra
 
